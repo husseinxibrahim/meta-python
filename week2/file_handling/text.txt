@@ -1,0 +1,8 @@
+While handling is an essential part of learning Python. 
+Python has several built in functions to create and manipulate files. 
+Fire handling includes opening, reading and writing files amongst other operations. 
+As a developer, you'll probably work with large amounts of data and far handling makes that easier. 
+This is why it's important to learn how to work with files. 
+Whether you're working with data on your computer, on the web or in the cloud, it will most likely be saved in some type of file. 
+There are two file handling functions in Python, open and close. 
+Let's explore the open function first. The open function is used for reading, writing and creating files.
