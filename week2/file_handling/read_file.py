@@ -15,7 +15,6 @@ with open('text.txt', 'r') as file:
     for line in lines:
         print(line)
 
-
 with open('text.txt', 'r') as file:
     for x in file:
         print(x)
